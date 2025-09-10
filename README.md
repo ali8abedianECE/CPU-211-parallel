@@ -1,11 +1,11 @@
 # CPU-211 Parallel Project
 
-⚠️ **Important Notice**  
+**Important Notice**  
 This repository is for **educational purposes only**.  
 **DO NOT COPY** this code for any assignments, labs, or coursework submissions.
 
 Full credit is given to the amazing course instructor **Dr. Tor Aamodt** and the teaching staff.  
-Special thanks to the professor — CPEN 211 is truly the **funnest course I’ve taken** 🎉.
+Special thanks to the professor — CPEN 211 is truly the **funnest course I’ve taken**.
 
 ---
 
@@ -19,7 +19,7 @@ Special thanks to the professor — CPEN 211 is truly the **funnest course I’v
 ---
 
 ## Reference CPU
-Modeled after the following CPU (image):
+Modeled after the following CPU (image) :
 ![Reference CPU Diagram](Documents/cpu_reference.png)
 
 ---
