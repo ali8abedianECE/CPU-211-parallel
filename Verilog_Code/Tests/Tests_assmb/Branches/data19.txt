@@ -1,0 +1,5 @@
+MOV R0,#0
+B S
+MOV R0,#9
+S:
+HALT

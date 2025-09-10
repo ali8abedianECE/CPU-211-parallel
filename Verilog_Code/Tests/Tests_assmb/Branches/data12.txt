@@ -1,0 +1,8 @@
+MOV R0,#0
+CMP R0,R0
+BEQ T
+B E
+T:
+MOV R1,#1
+E:
+HALT

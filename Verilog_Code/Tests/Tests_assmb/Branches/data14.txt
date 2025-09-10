@@ -1,0 +1,9 @@
+MOV R0,#2
+MOV R1,#3
+CMP R0,R1
+BNE Y
+B Z
+Y:
+MOV R2,#7
+Z:
+HALT

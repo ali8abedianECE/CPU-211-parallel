@@ -1,0 +1,8 @@
+MOV R0,#0
+MOV R1,#4
+K:
+ADD R0,R0,#1
+ADD R1,R1,#-1
+CMP R1,#0
+BNE K
+HALT

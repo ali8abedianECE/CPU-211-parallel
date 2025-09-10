@@ -1,0 +1,15 @@
+MOV R0,#-2
+MOV R1,#-1
+CMP R0,R1
+BLT A
+BGE B
+A:
+MOV R2,#1
+B:
+CMP R2,#1
+BEQ C
+B D
+C:
+MOV R3,#5
+D:
+HALT

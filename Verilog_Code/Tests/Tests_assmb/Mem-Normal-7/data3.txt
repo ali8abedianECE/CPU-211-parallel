@@ -1,0 +1,8 @@
+MOV R0,BASEP2
+MOV R1,#0x1234
+STR R1,[R0,#-1]
+HALT
+BASE:
+.word 0x0000
+BASEP2:
+.word 0x0000

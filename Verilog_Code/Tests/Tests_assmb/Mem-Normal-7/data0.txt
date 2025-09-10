@@ -1,0 +1,7 @@
+MOV R0,BASE
+LDR R1,[R0]
+STR R1,[R0,#1]
+HALT
+BASE:
+.word 0x1111
+.word 0x0000
